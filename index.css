@@ -54,6 +54,8 @@ header .links {
 
 header img {
     width: 3em;
+    padding-left: 1em;
+    margin-top: .2em;
 
 }
 
@@ -101,8 +103,7 @@ main {
     margin-top: 2em;
     color: var(--onyx);
     margin-right: 50%;
-    
-    
+   
    
     
 }
